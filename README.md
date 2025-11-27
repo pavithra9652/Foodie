@@ -325,6 +325,47 @@ cd backend
 npm run dev
 ```
 
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+## 👨‍💻 Development
+
+### Running in Development Mode
+
+**Backend:**
+```bash
+cd backend
+npm run dev
+```
+
+**Frontend:**
+```bash
+cd frontend
+npm run dev
+```
+
+### Building for Production
+
+**Frontend:**
+```bash
+cd frontend
+npm run build
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📞 Support
+
+For issues and questions, please open an issue on the repository.
+
+---
+
+**Made with ❤️ using MERN Stack**
+
 **Frontend:**
 ```bash
 cd frontend
